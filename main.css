@@ -1,0 +1,298 @@
+*{
+    box-sizing: content-box;
+    width: 100%;
+    padding: 0px;
+    margin: 0;
+}
+.fp-img1{
+    background-image: url(https://cdn.pixabay.com/photo/2018/12/08/08/30/bride-and-groom-3862979_960_720.jpg);
+    width: 80%;
+    height: 450px;
+    background-position: center center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    border-bottom-right-radius: 50%;
+}
+.fp-img2{
+    background-color: #16222C;
+    position: absolute;
+    width: 60px;
+    height: 60px;
+    left: 290px;
+    top: 400px;
+    border-radius: 8px;
+}
+.fp-img3{
+    background-color: #16222C;
+    position: absolute;
+    width: 60px;
+    height: 60px;
+    left: 355px;
+    top: 400px;
+    border-radius: 8px; 
+}
+.fp-text1{
+    text-align: center;
+    font-size: 28px;
+    padding-top: 80px;
+}
+.fp-img4{
+   text-align: center;
+   font-size: 25px;
+   margin-top: 0px;
+   padding-top: 170px;
+   color: #1b191a;
+   background-image: url(https://cdn.pixabay.com/photo/2018/02/22/14/58/nature-3173180_960_720.jpg);
+   background-position: left;
+   background-size: contain;
+   background-repeat: no-repeat;
+   height: 250px;
+}
+.sp-text1{
+    background-color: #16222C;
+    color: #fff;
+    width: 70%;
+    height: 30px;
+    font-size: 20px;
+    font-weight: initial;
+    border-top-right-radius: 10px;
+    text-align: center;
+    padding-top: 5px;
+}
+.container{
+    display: flex;
+    justify-content: right;
+}
+.container1{
+    display: block;
+    justify-content: left ;
+    margin-top: 40px;
+}
+.box-1{
+    background-image: url(https://cdn.pixabay.com/photo/2018/01/27/20/43/tailor-3112165_960_720.jpg);
+    width: 160px;
+    height: 220px;
+    background-position: center center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    padding-right: 30px;
+    margin-left: 20px;
+    border-top-left-radius: 15px;
+    border-bottom-right-radius: 15px;
+}
+.box-2{
+    border: 2px #B6ADAD solid ;
+    width: 160px;
+    height: 130px;
+    margin: 20px;
+    margin-top: 20px;
+    border-top-left-radius: 15px;
+    border-bottom-right-radius: 15px;
+    padding: 10px;
+}
+.container2{
+    display: block;
+    justify-content: right ;
+    margin-top: 40px;
+}
+.box-3{
+    border: 2px #B6ADAD solid ;
+    width: 160px;
+    height: 130px;
+    margin: 20px;
+    margin-top: 0px;
+    border-top-left-radius: 15px;
+    border-bottom-right-radius: 15px;
+    padding: 10px;
+}
+.box-4{
+    background-image: url(https://cdn.pixabay.com/photo/2017/03/06/15/34/bride-2121784_960_720.jpg);
+    width: 160px;
+    height: 220px;
+    background-position: center center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    padding-right: 30px;
+    margin-left: 20px;
+    border-top-left-radius: 15px;
+    border-bottom-right-radius: 15px;
+}
+.sp-text2{
+    text-align: center;
+    font-size: 20px;
+    color: #6D6666;
+    margin-top: 40px;
+    margin-bottom: 40px;
+}
+.third-page{
+    width: 100%;
+    height: 300px;
+}
+.tp-text1{
+    background-color: #16222C;
+    color: #fff;
+    width: 90%;
+    height: 340px;
+    font-size: 20px;
+    font-weight: initial;
+    border-top-right-radius: 10px;
+    text-align: center;
+    padding-top: 5px;
+    position: absolute;
+    z-index: -1;
+    
+}
+.tp-img1{
+    background-image: url(https://cdn.pixabay.com/photo/2017/03/18/17/35/wedding-rings-2154560_960_720.jpg);
+    background-position: center center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 85%;
+    height: 280px;
+    border-top-right-radius: 10px;
+    padding-top: 30px;
+    padding-left: 10px;
+    position: relative;
+    top: 30px;
+    bottom: 0;
+    font-size: 18px;
+    background-color: #fff;
+    opacity: 100%;
+    color: #363636;
+    }
+.tp-text2{
+    text-align: center;
+    font-size: 20px;
+    color: #6D6666;
+    margin-top: 80px;
+    margin-bottom: 40px;
+    width: 90%;
+    padding: 20px;
+}
+.fop-text1{
+    background-color: #16222C;
+    color: #fff;
+    width: 70%;
+    height: 30px;
+    margin-left: 30%;
+    font-size: 20px;
+    font-weight: initial;
+    text-align: center;
+    padding-top: 5px;
+    border-top-left-radius: 10px;
+}
+.gallery{
+    display: flex;
+    justify-content: right;
+    margin-top: 40px;
+}
+.box-5{
+    background-image: url(https://cdn.pixabay.com/photo/2017/07/31/19/44/people-2560382_960_720.jpg);
+    background-position: center center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 130px;
+    height: 150px;
+    margin: 10px;
+    border-radius: 10px;
+}
+.box-6{
+    background-image: url(https://cdn.pixabay.com/photo/2019/12/06/13/06/bridal-4677348_960_720.jpg);
+    background-position: center center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 130px;
+    height: 250px;
+    margin: 10px;
+    border-radius: 10px;
+}
+.box-7{
+    background-image: url(https://cdn.pixabay.com/photo/2014/02/07/11/36/couple-260899_960_720.jpg);
+    background-position: center center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 130px;
+    height: 160px;
+    margin: 10px;
+    margin-top: 20px;
+    border-radius: 10px;
+}
+.box-8{
+    background-image: url(https://cdn.pixabay.com/photo/2017/07/25/15/00/wedding-2538461_640.jpg);
+    background-position: center center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 130px;
+    height: 150px;
+    margin: 10px;
+    border-radius: 10px; 
+}
+.box-9{
+    background-image: url(https://cdn.pixabay.com/photo/2020/08/04/12/55/wedding-5462790_960_720.jpg);
+    background-position: center center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 130px;
+    height: 70px;
+    margin: 10px;
+    border-radius: 10px; 
+}
+.box-10{
+    background-image: url(https://cdn.pixabay.com/photo/2019/09/01/18/03/couple-4445678_960_720.jpg);
+    background-position: center center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 130px;
+    height: 180px;
+    margin: 10px;
+    margin-top: 30px;
+    border-radius: 10px;
+}
+.box-11{
+    background-image: url(https://cdn.pixabay.com/photo/2017/08/01/12/32/people-2564998_960_720.jpg);
+    background-position: center center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 130px;
+    height: 200px;
+    margin: 10px;
+    border-radius: 10px;
+}
+.fop-text2{
+    text-align: center;
+    font-size: 20px;
+    color: #6D6666;
+    margin-top: 40px;
+    margin-bottom: 40px;
+    width: 90%;
+    padding: 20px;
+}
+.lovestory{
+    width: 90%;
+    height: 350px;
+    padding: 20px;
+    padding-top: 40px;
+}
+.tenth-page{
+    background-color: #16222C;
+    height: 211px;
+}
+
+.tenp-text1{
+    color: #fff;
+    font-size: 20px;
+    text-align: center;
+    font-family: 'JuliusSansOne-Regular';
+    margin-top: 50px;
+    margin-bottom: 20px;
+
+}
+.tenp-text2{
+    text-align: center;
+    margin-bottom: 20px;
+    color: #fff;
+}
+.tenp-text3{
+    text-align: center;
+    color: #fff;
+}
